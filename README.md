@@ -10,7 +10,7 @@ This is an Android emulator that allows the user to change the color of the text
 
 https://user-images.githubusercontent.com/45538636/146510363-e8997959-08c3-4465-8385-065d0edaea8c.mp4
 
-imgur.com/nB9NvPN.mp4)
+imgur.com/nB9NvPN.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!

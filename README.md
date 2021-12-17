@@ -4,9 +4,8 @@
 This is an Android emulator that allows the user to change the color of the text, background color, and allows the user to input their own message. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/7w75etc" width=200><br>
 
 
 ### Required User Stories

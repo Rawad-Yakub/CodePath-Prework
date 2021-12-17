@@ -3,14 +3,9 @@
 ### App Description
 This is an Android emulator that allows the user to change the color of the text, background color, and allows the user to input their own message. 
 
-### App Walk-though
+### App Walk-through
 
-<img src="https://imgur.com/tSHe1bA.gif" width=200><br>
-![Imgur Image](https://
-
-https://user-images.githubusercontent.com/45538636/146510363-e8997959-08c3-4465-8385-065d0edaea8c.gif
-
-imgur.com/nB9NvPN.gif)
+<img src="https://imgur.com/EpBIVd2.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!

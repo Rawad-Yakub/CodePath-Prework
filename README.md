@@ -5,7 +5,7 @@ This is an Android emulator that allows the user to change the color of the text
 
 ### App Walk-though
 
-<img src="https://imgur.com/odpcuOR.gif" width=200><br>
+<img src="https://imgur.com/tSHe1bA.gif" width=200><br>
 
 
 ### Required User Stories

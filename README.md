@@ -8,7 +8,7 @@ This is an Android emulator that allows the user to change the color of the text
 <img src="https://imgur.com/tSHe1bA.gif" width=200><br>
 ![Imgur Image](https://
 
-https://user-images.githubusercontent.com/45538636/146510363-e8997959-08c3-4465-8385-065d0edaea8c.mp4
+https://user-images.githubusercontent.com/45538636/146510363-e8997959-08c3-4465-8385-065d0edaea8c.gif
 
 imgur.com/nB9NvPN.gif)
 

@@ -5,7 +5,7 @@ This is an Android emulator that allows the user to change the color of the text
 
 ### App Walk-through
 
-<img src="https://imgur.com/EpBIVd2.gif" width=200><br>
+<img src="https://imgur.com/XgLM4AA.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
